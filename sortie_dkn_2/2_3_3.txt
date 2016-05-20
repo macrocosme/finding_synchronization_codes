@@ -1,0 +1,15 @@
+c Parsing PB file...
+c Converting 106 PB-constraints to clauses...
+c   -- Unit propagations: ppppppppppppppppp  -- Detecting intervals from adjacent constraints: #
+c   -- Clauses(.)/Splits(s): ................................
+c ---[ 104]---> BDD-cost:    3
+s UNSATISFIABLE
+c _______________________________________________________________________________
+c 
+c restarts              : 0
+c conflicts             : 0              (0 /sec)
+c decisions             : 0              (0 /sec)
+c propagations          : 0              (0 /sec)
+c inspects              : 0              (0 /sec)
+c CPU time              : 0.000697 s
+c _______________________________________________________________________________

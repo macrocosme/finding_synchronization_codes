@@ -1,0 +1,23 @@
+c Parsing PB file...
+c Converting 461 PB-constraints to clauses...
+c   -- Unit propagations: ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+c   -- Detecting intervals from adjacent constraints: #
+c   -- Clauses(.)/Splits(s): ................................................................................................
+c ---[ 459]---> BDD-cost:   13
+c ==================================[MINISAT+]==================================
+c | Conflicts | Original         | Learnt                           | Progress |
+c |           | Clauses Literals |     Max Clauses Literals     LPC |          |
+c ==============================================================================
+c |         0 |     128      276 |      42       0        0     nan |  0.000 % |
+c ==============================================================================
+c [1mUNSATISFIABLE[0m
+s UNSATISFIABLE
+c _______________________________________________________________________________
+c 
+c restarts              : 1
+c conflicts             : 3              (1407 /sec)
+c decisions             : 2              (938 /sec)
+c propagations          : 0              (0 /sec)
+c inspects              : 0              (0 /sec)
+c CPU time              : 0.002132 s
+c _______________________________________________________________________________
