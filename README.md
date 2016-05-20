@@ -1,8 +1,18 @@
-Code and results for 'Finding Synchronization Codes to Boost Compression by Substring Enumeration'
+All codes, tests, and results for 'Finding Synchronization Codes to Boost Compression by Substring Enumeration'
 ========
 Pseudo-boolean model ran using [minisatp](https://github.com/niklasso/minisatp).
 
 Copyright (c) 2015, Dany Vohl. All rights reserved.
+
+Comment:
+--------
+I decided to put all of this data available online. Who knows, 
+someone may be interested in looking at how it was done, or 
+interested in finishing the remaining computations! 
+
+If you do use it and find this work useful, please cite the following paper 
+and refer to the license also joint in this repository. 
+
 
 Related publication:
 --------------------
