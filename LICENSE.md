@@ -1,5 +1,5 @@
-Data + constraint model for 'Finding Synchronization Codes 
-to Boost Compression by Substring Enumeration' -- Copyright (c) 2016, Dany Vohl
+OPB files for 'Finding Synchronization Codes 
+to Boost Compression by Substring Enumeration' -- Copyright (c) 2016, Dany Vohl, Claude-Guy Quimper, Danny Dubé.
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the
