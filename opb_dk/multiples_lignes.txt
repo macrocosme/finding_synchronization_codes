@@ -1,8 +1,0 @@
-java CompressionCG 6 6 36 > 6_6_36.opb;
-minisat+ 6_6_36.opb > sortie/6_6_36.txt;
-java CompressionCG 6 6 37 > 6_6_37.opb;
-minisat+ 6_6_37.opb > sortie/6_6_37.txt;
-java CompressionCG 6 6 38 > 6_6_38.opb;
-minisat+ 6_6_38.opb > sortie/6_6_38.txt;
-java CompressionCG 6 6 39 > 6_6_39.opb;
-minisat+ 6_6_39.opb > sortie/6_6_39.txt;
