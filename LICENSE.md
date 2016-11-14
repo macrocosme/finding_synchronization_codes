@@ -1,5 +1,5 @@
 OPB files for 'Finding Synchronization Codes 
-to Boost Compression by Substring Enumeration' -- Copyright (c) 2016, Dany Vohl, Claude-Guy Quimper, Danny Dubé.
+to Boost Compression by Substring Enumeration' -- Copyright (c) 2012, Dany Vohl, Claude-Guy Quimper, Danny Dubé.
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this benchmark and associated documentation files (the
