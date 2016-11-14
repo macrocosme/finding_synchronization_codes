@@ -2,7 +2,7 @@ OPB files from 'Finding Synchronization Codes to Boost Compression by Substring 
 ========
 Pseudo-boolean instances relative to our pseudo-boolean constraint model that compute the shortest synchronization codes, i.e. those that add the fewest synchronization bits to the original data.
 
-Copyright (c) 2015, Dany Vohl, Claude-Guy Quimper, Danny Dubé. All rights reserved.
+Copyright (c) 2012, Dany Vohl, Claude-Guy Quimper, Danny Dubé. All rights reserved.
 
 Comment:
 --------
